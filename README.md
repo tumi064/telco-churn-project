@@ -43,7 +43,7 @@ These are observed associations, not proof that the listed factors cause churn. 
 
 ## Repository contents
 - `01_cleaning.ipynb` — data inspection and cleaning
-- `O2_exploration.ipynb` — exploratory data analysis (filename currently uses the letter O)
+- `02_exploration.ipynb` — exploratory data analysis (filename currently uses the letter O)
 - `03_modelling.ipynb` — model training and prediction export
 - `04_evaluation.ipynb` — model comparison, feature interpretation and recommendations
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` — original dataset
@@ -57,7 +57,7 @@ These are observed associations, not proof that the listed factors cause churn. 
 ## How to reproduce
 The notebooks are intended to be run in order:
 1. Open `01_cleaning.ipynb` and run all cells.
-2. Open `O2_exploration.ipynb` and run all cells.
+2. Open `02_exploration.ipynb` and run all cells.
 3. Open `03_modelling.ipynb` and run all cells.
 4. Open `04_evaluation.ipynb` and run all cells.
 
